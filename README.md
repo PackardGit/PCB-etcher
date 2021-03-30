@@ -10,7 +10,8 @@ Schematy ideowy:
 Schematy połączeń poszczególnych elementów:  
 ![alt text](https://github.com/Suarez94/PCB-etcher/blob/main/images/schematy.png)   
   
-Wymiary akwarium:
+Wymiary akwarium:  
+
 ![alt text](https://github.com/Suarez94/PCB-etcher/blob/main/images/akwarium.png)   
 
 
